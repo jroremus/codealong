@@ -1,0 +1,10 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron img {
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
