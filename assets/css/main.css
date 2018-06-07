@@ -2,9 +2,11 @@
     margin-bottom: 0px;
 }
 
-.jumbotron img {
-    background-size: cover;
-    height: 200px;
-    width: 100%;
-    background-repeat: no-repeat;
+.hero {
+    background-image: url("https://unsplash.it/1900/1080?image=1076");
+    height: 400px;
+}
+
+.central-image {
+    margin: 110px;
 }
